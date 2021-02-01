@@ -1,0 +1,5 @@
+Berikut nama-nama perintah dasar linux
+1.Sudo su
+2.Login
+3.cd
+4.exit
